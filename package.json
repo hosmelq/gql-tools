@@ -26,11 +26,28 @@
     "prettier": "^2.7.1"
   },
   "author": "Nerdify S.A. <hello@getnerdify.com>",
+  "repository": {
+    "type": "GitHub",
+    "url": "https://github.com/nerdify/gql-tools"
+  },
+  "bugs": {
+    "url": "https://github.com/nerdify/gql-tools/issues"
+  },
   "description": "Graphql Tools",
   "license": "ISC",
   "keywords": [
     "graphql",
     "tools"
+  ],
+  "maintainers": [
+    {
+      "name": "Rene Corrales",
+      "email": "ruckonic@icloud.com"
+    },
+    {
+      "name": "Hosmel Q.",
+      "email": "hosmelq@gmail.com"
+    }
   ],
   "contributors": [
     {
